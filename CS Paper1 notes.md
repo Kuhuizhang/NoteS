@@ -49,6 +49,8 @@ Range = [-128] - [+127]
 
   software 
 
+- 张中和最丑了
+
 
 
 #### Explain the differences between the **ASCII** and **Unicode** character sets <fppmj12184bii>
